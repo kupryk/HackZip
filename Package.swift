@@ -42,7 +42,6 @@ var package = Package(
                     "libzip/cmake-zipconf.h.in",
                     "libzip/libzip-config.cmake.in",
                     "libzip/libzip.pc.in",
-                    "libzip-patches",
 
                     // Non-source files from `developer-xcode`
                     "libzip/developer-xcode/extract-version.sh",
@@ -52,8 +51,6 @@ var package = Package(
 
                     // Non-source files from `lib`
                     "libzip/lib/CMakeLists.txt",
-                    "libzip/lib/make_zip_err_str.sh",
-                    "libzip/lib/make_zipconf.sh",
 
                     // LZMA compression requires LZMA SDK
                     "libzip/lib/zip_algorithm_xz.c",
