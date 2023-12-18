@@ -94,7 +94,6 @@ var package = Package(
             ]),
             sources: [
                 "libzip/lib",
-                "libzip/developer-xcode/zip_err_str.c",
             ],
             publicHeadersPath: "include",
             cSettings: [
