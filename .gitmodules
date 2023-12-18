@@ -1,3 +1,3 @@
-[submodule "/Users/kupryk/Desktop/hackyou-zip/Sources/zip/libzip"]
-	path = /Users/kupryk/Desktop/hackyou-zip/Sources/zip/libzip
+[submodule "Sources/zip/libzip"]
+	path = Sources/zip/libzip
 	url = https://github.com/nih-at/libzip.git
