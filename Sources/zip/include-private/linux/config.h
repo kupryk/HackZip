@@ -19,9 +19,9 @@
 /* #undef HAVE__STRTOUI64 */
 /* #undef HAVE__UMASK */
 /* #undef HAVE__UNLINK */
-#define HAVE_ARC4RANDOM
-#define HAVE_CLONEFILE
-#define HAVE_COMMONCRYPTO
+/* #undef HAVE_ARC4RANDOM */
+/* #undef HAVE_CLONEFILE */
+/* #undef HAVE_COMMONCRYPTO */
 #define HAVE_CRYPTO
 /* #undef HAVE_FICLONERANGE */
 #define HAVE_FILENO
@@ -36,7 +36,7 @@
 /* #undef HAVE_MKSTEMP */
 #define HAVE_NULLABLE
 #define HAVE_OPEN
-/* #undef HAVE_OPENSSL */
+#define HAVE_OPENSSL
 #define HAVE_SETMODE
 #define HAVE_SSIZE_T_LIBZIP
 #define HAVE_STRCASECMP

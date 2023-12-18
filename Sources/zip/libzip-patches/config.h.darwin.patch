@@ -1,0 +1,11 @@
+--- Sources/zip/libzip/developer-xcode/config.h	2021-01-04 18:27:53.000000000 +0200
++++ Sources/zip/include-private/darwin/config.h	2021-01-04 18:33:55.000000000 +0200
+@@ -30,7 +30,7 @@
+ #define HAVE_GETPROGNAME
+ /* #undef HAVE_GNUTLS */
+ #define HAVE_LIBBZ2
+-#define HAVE_LIBLZMA
++/* #undef HAVE_LIBLZMA */
+ #define HAVE_LOCALTIME_R
+ /* #undef HAVE_MBEDTLS */
+ /* #undef HAVE_MKSTEMP */

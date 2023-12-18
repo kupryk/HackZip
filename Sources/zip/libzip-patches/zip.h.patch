@@ -1,0 +1,11 @@
+--- Sources/zip/libzip/lib/zip.h	2021-01-04 18:27:18.000000000 +0200
++++ Sources/zip/include/zip.h	2021-01-04 18:33:55.000000000 +0200
+@@ -42,7 +42,7 @@
+ #endif
+ #endif
+ 
+-#include <zipconf.h>
++#include "zipconf.h"
+ 
+ #ifndef ZIP_EXTERN
+ #ifndef ZIP_STATIC
