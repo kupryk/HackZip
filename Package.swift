@@ -37,7 +37,6 @@ var package = Package(
                 "libzip/cmake-zipconf.h.in",
                 "libzip/libzip-config.cmake.in",
                 "libzip/libzip.pc.in",
-                "libzip-patches",
                 "libzip/developer-xcode/extract-version.sh",
                 "libzip/developer-xcode/mkconfig-h.sh",
                 "libzip/developer-xcode/README Xcode Project.md",
