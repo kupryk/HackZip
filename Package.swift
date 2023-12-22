@@ -51,6 +51,7 @@ var package = Package(
                 "libzip/lib/zip_random_uwp.c",
                 "libzip/lib/zip_crypto_openssl.c",
                 "libzip/lib/zip_crypto_win.c",
+                "libzip/lib/zip_random_win32.c",
                 "libzip/lib/zip_source_file_win32_ansi.c",
                 "libzip/lib/zip_source_file_win32_named.c",
                 "libzip/lib/zip_source_file_win32_utf8.c",
